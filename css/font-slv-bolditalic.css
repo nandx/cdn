@@ -1,4 +1,4 @@
 @font-face {
 	font-family: 'Sun Life New Text';
-	src: url('../fonts/SunLifeNewText-BoldItalic.ttf') format('truetype');
+	src: url('https://rawcdn.githack.com/nandx/cdn/0777904a136db8a21e3368c585f099e7326bf56f/fonts/SunLifeNewText-BoldItalic.woff') format('woff');
 }
